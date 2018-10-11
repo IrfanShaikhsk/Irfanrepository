@@ -1,0 +1,6 @@
+com\niit\AdminController.class
+com\niit\ProductController.class
+com\niit\UserController.class
+com\niit\CategoryController.class
+com\niit\HomeController.class
+com\niit\PaymentController.class
